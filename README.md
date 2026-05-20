@@ -1,95 +1,95 @@
 <div align="center">
 
-# Axmadjon Qaxxorov
+<!-- HERO -->
+<br/>
 
-### FullStack Developer — Backend & Frontend
+```
+╔══════════════════════════════════════════════════════════╗
+║              UZBEKISTAN · FULLSTACK DEVELOPER            ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-akhmedcodes-181717?style=flat-square&logo=github)](https://github.com/akhmedcodes)
-[![PyPI](https://img.shields.io/badge/PyPI-akhmedcodes-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/akhmedcodes/)
-[![YouTube](https://img.shields.io/badge/YouTube-@akhmedcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@akhmedcodes)
-[![Telegram](https://img.shields.io/badge/Telegram-@akhmedcodes-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/akhmedcodes)
-[![Beacons](https://img.shields.io/badge/Beacons-akhmedcodes-6366f1?style=flat-square)](https://beacons.ai/akhmedcodes)
+<img src="assets/brain.jpg" width="80" alt=""/>  <img src="assets/lamp.jpg" width="80" alt=""/>  <img src="assets/book.jpg" width="80" alt=""/>  <img src="assets/heart.jpg" width="80" alt=""/>
+
+# AXMADJON QAXXOROV
+
+**`Backend Architecture · API Design · Modern Web Systems`**
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-akhmedcodes-000?style=for-the-badge&logo=github)](https://github.com/akhmedcodes)
+[![PyPI](https://img.shields.io/badge/PyPI-akhmedcodes-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/akhmedcodes/)
+[![YouTube](https://img.shields.io/badge/YouTube-@akhmedcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akhmedcodes)
+[![Telegram](https://img.shields.io/badge/Telegram-@akhmedcodes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akhmedcodes)
+[![Beacons](https://img.shields.io/badge/Beacons-akhmedcodes-6366f1?style=for-the-badge)](https://beacons.ai/akhmedcodes)
 
 </div>
 
+<br/>
+
 ---
 
-## About
-
-I am a FullStack developer based in Uzbekistan, specializing in backend architecture, API design, and modern web systems.
-
-I build high-performance applications across the Node.js and Python ecosystems, combining clean UI principles with scalable backend logic. I work confidently with relational and NoSQL databases, REST APIs, Telegram bots, and Linux-based environments.
-
-I contribute to the open-source community by publishing my own packages on PyPI, and I create programming content in Uzbek on YouTube.
+## `01` — ABOUT
 
 > *"Consistency beats motivation. I build every day."*
 
----
+I build high-performance applications across the **Node.js** and **Python** ecosystems —
+combining clean UI principles with scalable backend logic.
 
-## Specialization
-
-- **API Development** — RESTful architecture, API-first design
-- **Telegram Bot Systems** — production-grade logic, commerce bots
-- **Admin Panels & Dashboards** — high-performance management interfaces
-- **Authentication Systems** — JWT, OAuth2, RBAC, security hardening
-- **Database Design & Optimization** — schema design, indexing, query tuning
-- **Fullstack Web Applications** — end-to-end product development
-- **Automation & System Scripts** — Linux, VPS provisioning, deployment
+Relational & NoSQL databases · REST APIs · Telegram bots · Linux-based environments.
+I publish open-source packages on PyPI and create programming content in Uzbek on YouTube.
 
 ---
 
-## Tech Stack
+## `02` — SPECIALIZATION
+
+| Area | Focus |
+|---|---|
+| **API Development** | RESTful architecture, API-first design |
+| **Telegram Bot Systems** | Production-grade logic, commerce bots |
+| **Admin Panels & Dashboards** | High-performance management interfaces |
+| **Authentication Systems** | JWT, OAuth2, RBAC, security hardening |
+| **Database Design** | Schema design, indexing, query tuning |
+| **Fullstack Web Apps** | End-to-end product development |
+| **Automation & Scripts** | Linux, VPS provisioning, deployment |
+
+---
+
+## `03` — TECH STACK
+
+<div align="center">
+<img src="assets/python_logo.png" height="40" alt="Python"/> &nbsp;&nbsp;&nbsp;
+<img src="assets/js_logo.png" height="40" alt="JavaScript"/>
+</div>
+
+<br/>
 
 **Backend**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+```
+Python · Node.js · FastAPI · Express.js · SQLAlchemy · aiogram
+```
 
 **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+```
+React · Next.js · JavaScript · Tailwind CSS · shadcn/ui · HTML5 · CSS3
+```
 
-**Database**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools & Infrastructure**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Database & Infrastructure**
+```
+PostgreSQL · MongoDB · SQLite · Linux · Nginx · Git
+```
 
 ---
 
-## Featured Project
+## `04` — FEATURED PROJECT
 
-### [rapidauth](https://pypi.org/project/rapidauth/) — Authentication framework for FastAPI
+### [`rapidauth`](https://pypi.org/project/rapidauth/) — Authentication Framework for FastAPI
 
-[![PyPI version](https://img.shields.io/pypi/v/rapidauth?color=6366f1&label=PyPI&style=flat-square)](https://pypi.org/project/rapidauth/)
-[![Python](https://img.shields.io/pypi/pyversions/rapidauth?color=22d3ee&style=flat-square)](https://pypi.org/project/rapidauth/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-fbbf24?style=flat-square)](https://pypi.org/project/rapidauth/)
+[![PyPI](https://img.shields.io/pypi/v/rapidauth?color=000&label=PyPI&style=for-the-badge)](https://pypi.org/project/rapidauth/)
+[![Python](https://img.shields.io/pypi/pyversions/rapidauth?color=3775A9&style=for-the-badge)](https://pypi.org/project/rapidauth/)
+[![License](https://img.shields.io/badge/license-MIT-6366f1?style=for-the-badge)](https://pypi.org/project/rapidauth/)
 
-A plug-and-play authentication framework — a single `include_router` call mounts **14 auth endpoints** automatically.
-
-**Key features:**
-
-- JWT (access + refresh tokens) with rotation and blacklist
-- Tortoise ORM and SQLAlchemy (async/sync) support
-- Email verification and password reset over SMTP
-- OAuth2 social login: Google, GitHub, Discord
-- Role-Based Access Control (RBAC)
-- Rate limiting and brute-force protection
-- Bcrypt / Argon2 password hashing with timing-safe verification
-- Full project scaffolding via CLI
+A plug-and-play authentication framework. One `include_router` call mounts **14 auth endpoints** automatically.
 
 ```bash
 pip install rapidauth
@@ -105,29 +105,34 @@ auth = RapidAuth(user_model=User, jwt_secret="your-secret-min-32-chars")
 app.include_router(auth.router)
 ```
 
----
+**Features:**
 
-## Project Focus
-
-- High-performance admin systems
-- API-first backend architecture
-- AI-powered tools
-- E-commerce and service automation
-- Telegram commerce bots
-
----
-
-## YouTube
-
-[**@akhmedcodes**](https://www.youtube.com/@akhmedcodes) — programming tutorials in Uzbek:
-Node.js, JavaScript, Python, aiogram, FastAPI, Telegram bot development.
+```
+— JWT access + refresh tokens with rotation & blacklist
+— Tortoise ORM and SQLAlchemy (async/sync) support
+— Email verification & password reset via SMTP
+— OAuth2: Google, GitHub, Discord
+— Role-Based Access Control (RBAC)
+— Rate limiting & brute-force protection
+— Bcrypt / Argon2 password hashing
+```
 
 ---
 
-## Contact
+## `05` — YOUTUBE
+
+[**@akhmedcodes**](https://www.youtube.com/@akhmedcodes) — Programming tutorials in Uzbek:
+
+`Node.js` · `JavaScript` · `Python` · `aiogram` · `FastAPI` · `Telegram bots`
+
+---
+
+## `06` — CONTACT
+
+<div align="center">
 
 | | |
-|---|---|
+|:---:|:---:|
 | **All links** | [beacons.ai/akhmedcodes](https://beacons.ai/akhmedcodes) |
 | **YouTube** | [@akhmedcodes](https://www.youtube.com/@akhmedcodes) |
 | **Telegram (channel)** | [@akhmedcodes](https://t.me/akhmedcodes) |
@@ -135,19 +140,16 @@ Node.js, JavaScript, Python, aiogram, FastAPI, Telegram bot development.
 | **PyPI** | [pypi.org/user/akhmedcodes](https://pypi.org/user/akhmedcodes/) |
 | **Email** | `axmadjonqaxxorovc@gmail.com` |
 
+</div>
+
 ---
-
-## Philosophy
-
-```
-Clean code.
-Structured logic.
-Scalable systems.
-Long-term thinking.
-```
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=akhmedcodes&style=flat-square&color=6366f1)
+```
+CLEAN CODE · STRUCTURED LOGIC · SCALABLE SYSTEMS · LONG-TERM THINKING
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=akhmedcodes&style=for-the-badge&color=000000)
 
 </div>
