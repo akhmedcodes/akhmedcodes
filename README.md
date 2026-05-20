@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="assets/brain.jpg" width="80" alt=""/>  <img src="assets/lamp.jpg" width="80" alt=""/>  <img src="assets/book.jpg" width="80" alt=""/>  <img src="assets/heart.jpg" width="80" alt=""/>
+<img src="assets/brain.png" width="80" alt=""/>  <img src="assets/lamp.png" width="80" alt=""/>  <img src="assets/book.png" width="80" alt=""/>  <img src="assets/heart.png" width="80" alt=""/>
 
 # AXMADJON QAXXOROV
 
