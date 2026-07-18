@@ -17,11 +17,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-akhmedcodes-000?style=for-the-badge&logo=github)](https://github.com/akhmedcodes)
-[![PyPI](https://img.shields.io/badge/PyPI-akhmedcodes-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/akhmedcodes/)
-[![YouTube](https://img.shields.io/badge/YouTube-@akhmedcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akhmedcodes)
-[![Telegram](https://img.shields.io/badge/Telegram-@akhmedcodes-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akhmedcodes)
-[![Beacons](https://img.shields.io/badge/Beacons-akhmedcodes-6366f1?style=for-the-badge)](https://beacons.ai/akhmedcodes)
+[![GitHub](https://img.shields.io/badge/GitHub-aahmiy-000?style=for-the-badge&logo=github)](https://github.com/aahmiy)
+[![PyPI](https://img.shields.io/badge/PyPI-aahmiy-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/aahmiy/)
+[![YouTube](https://img.shields.io/badge/YouTube-@aahmiy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aahmiy)
+[![Telegram](https://img.shields.io/badge/Telegram-@aahmiy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aahmiy)
+[![Beacons](https://img.shields.io/badge/Beacons-aahmiy-6366f1?style=for-the-badge)](https://beacons.ai/aahmiy)
 
 </div>
 
@@ -121,7 +121,7 @@ app.include_router(auth.router)
 
 ## `05` — YOUTUBE
 
-[**@akhmedcodes**](https://www.youtube.com/@akhmedcodes) — Programming tutorials in Uzbek:
+[**@aahmiy**](https://www.youtube.com/@aahmiy) — Programming tutorials in Uzbek:
 
 `Node.js` · `JavaScript` · `Python` · `aiogram` · `FastAPI` · `Telegram bots`
 
@@ -133,11 +133,11 @@ app.include_router(auth.router)
 
 | | |
 |:---:|:---:|
-| **All links** | [beacons.ai/akhmedcodes](https://beacons.ai/akhmedcodes) |
-| **YouTube** | [@akhmedcodes](https://www.youtube.com/@akhmedcodes) |
-| **Telegram (channel)** | [@akhmedcodes](https://t.me/akhmedcodes) |
-| **Telegram (direct)** | [@akhmedbeyy](https://t.me/akhmedbeyy) |
-| **PyPI** | [pypi.org/user/akhmedcodes](https://pypi.org/user/akhmedcodes/) |
+| **All links** | [beacons.ai/aahmiy](https://beacons.ai/aahmiy) |
+| **YouTube** | [@aahmiy](https://www.youtube.com/@aahmiy) |
+| **Telegram (channel)** | [@aahmiy](https://t.me/aahmiy) |
+| **Telegram (direct)** | [@akhmedbeyy](https://t.me/aahmiydev) |
+| **PyPI** | [pypi.org/user/aahmiy](https://pypi.org/user/aahmiy/) |
 | **Email** | `axmadjonqaxxorovc@gmail.com` |
 
 </div>
@@ -150,6 +150,6 @@ app.include_router(auth.router)
 CLEAN CODE · STRUCTURED LOGIC · SCALABLE SYSTEMS · LONG-TERM THINKING
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=akhmedcodes&style=for-the-badge&color=000000)
+![Profile views](https://komarev.com/ghpvc/?username=aahmiy&style=for-the-badge&color=000000)
 
 </div>
